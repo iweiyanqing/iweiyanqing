@@ -96,8 +96,8 @@ If you're a developer, engineer, or technical leader, here's why you might want 
 
 Whether you're passively browsing or actively looking, if you care about building a meaningful career — let's chat.
 
-📧 **job@liebangbang.com**
 💬 **微信：liebangbang**
+📧 **job@liebangbang.com**
 🌐 **[bestlinkbest.com](https://bestlinkbest.com)**
 💼 **[LinkedIn](https://www.linkedin.com/in/weiyanqing)**
 
