@@ -18,7 +18,7 @@
 
 I'm **Yanqing Wei 魏彦卿**, Founder of **B&B Group** — a talent solutions company dedicated to connecting outstanding people with outstanding opportunities.
 
-My GitHub username `liebangbang` comes from **猎帮帮 LieBangBang**, our executive search brand. I work directly with founders and C-level executives — not as an agency middleman, but as someone who truly understands both sides of the talent market.
+My GitHub username `liebangbang` comes from **猎帮帮 LieBangBang**, the executive search brand under **B&B Group**. We specialize in connecting top-tier companies with exceptional talent — and our mission is simple: **Everyone Enjoys A Good Job.**
 
 > 🎯 **I'm actively hiring top talent in AI Agent & Embodied AI / Robotics.**
 
